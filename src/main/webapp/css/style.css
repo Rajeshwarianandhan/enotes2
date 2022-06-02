@@ -1,0 +1,33 @@
+.bg-custom{
+	background : #9e24aa;
+	
+}
+
+.navbar-brand{
+	font-family: Arial;
+	font-weight:bold;
+	font-size:30px;
+	font-style:italic;
+	text-shadow: 3px 1px 1px black;
+}
+
+.navbar{
+	
+position:relative;
+}
+.navbar .nav-item .nav-link{
+	font-size : 20px;
+	color : white;
+}
+
+.navbar-custom .nav-item:hover .nav-link{
+	background : white;
+	color : black;
+	border-radius: 10px;
+}
+
+.div-color{
+	background-image: linear-gradient(to right top, #ed6700, #ec9000, #e5b500, #d9d828, #c8f95a); 
+	height:532px;
+}
+
